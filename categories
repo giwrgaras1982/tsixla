@@ -1,0 +1,10 @@
+export const categories = [
+  { name: "Furniture" },
+  { name: "Mobile Phones" },
+  { name: "Electronics" },
+  { name: "Local Products" },
+  { name: "Clothing" },
+  { name: "Cars" },
+  { name: "Property" },
+  { name: "Other" },
+];
